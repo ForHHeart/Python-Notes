@@ -8,10 +8,10 @@
 
 ## 库函数<a name="kuhanshu"></a>
 ```
-append,extend,add
+append(),extend,add
 ```
 ```
-join
+join()
 ```
 ```
 reverse
@@ -22,7 +22,12 @@ split
 ```
 remove
 ```
-
+```
+swap
+```
+```
+enumerate
+```
 ## 切片操作<a name="qiepian"></a>
 
 ## 初始化<a name="chushihua"></a>
